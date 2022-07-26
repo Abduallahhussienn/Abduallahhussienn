@@ -4,7 +4,7 @@
     <a href="https://www.instagram.com/abduallahhussien_/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
   </p>
   
-  <img src="D:\Mine\profile-img.png" align="right" width="25%"/>
+  <img src="https://raw.githubusercontent.com/mohamedabusrea/mohamedabusrea/master/profile-img.png" align="right" width="25%"/>
 
 Senior Artificial Intelligence student at the Faculty of Computer and Information, seeking the opportunity to develop my skills and acquire more knowledge to elevate people. A fast learning, detail-oriented student aiming to help people achieve their goals, deliver quality ground-breaking projects, and take on more responsibility as quick as possible.
 
