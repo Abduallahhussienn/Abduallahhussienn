@@ -8,4 +8,5 @@
 
 Senior Artificial Intelligence student at the Faculty of Computer and Information, seeking the opportunity to develop my skills and acquire more knowledge to elevate people. A fast learning, detail-oriented student aiming to help people achieve their goals, deliver quality ground-breaking projects, and take on more responsibility as quick as possible.
 
-- 🔭 I'm a data scientist intern @BanqueMisr
+- 🔭 I was a data scientist intern @National Bank Of Egypt 
+- 🔭 I was a data scientist intern @Banque Misr
